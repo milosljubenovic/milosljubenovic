@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Go, NodeJs, Express, ASM86**
 
-- 👨‍💻 All of my projects are available at [mljubenovic.vpxr.us](mljubenovic.vpxr.us)
+- 👨‍💻 All of my projects are available at [mljubenovic.vpxr.us](https://mljubenovic.vpxr.us)
 
 - 📫 How to reach me **mljubenovic@vpxr.us**
 
-- 📄 Know about my experiences [mljubenovic.vpxr.us](mljubenovic.vpxr.us)
+- 📄 Know about my experiences [mljubenovic.vpxr.us](https://mljubenovic.vpxr.us)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
