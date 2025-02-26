@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milosljubenovic" alt="milosljubenovic" /></a> </p>
 
-- 🧰 I'm currently Full-Time working on amazing stuff with [Adapptiv.uk](https://adapptiv.uk) for domestic client.
-
-- 🔭 I’m currently contracted by [Clouddle](https://clouddle.com) through [vpxr.us](https://vpxr.us).
-
-- 👨‍🚀 I’m serving as CTO in [ClearMoon LLC](https://clearmoon.llc).
+- 🧰 I'm currently Full-Time working on amazing stuff with [Symphony.is](https://symphony.is).
 
 - 🌱 I’m currently learning **Go, NodeJs, Express, ASM86**
 
