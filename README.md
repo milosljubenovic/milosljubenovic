@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milosljubenovic" alt="milosljubenovic" /></a> </p>
 
-- 🧰 I'm currently Full-Time working on amazing stuff with [Symphony.is](https://symphony.is).
+- 🧰 I'm currently Full-Time working on amazing stuff with [tide.co](https://tide.co).
 
 - 🌱 I’m currently learning **Go, NodeJs, Express, ASM86**
 
